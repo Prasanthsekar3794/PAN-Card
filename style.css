@@ -94,7 +94,9 @@ button{
         width: auto;
     
     }
-    
+    .home{
+        width:auto;
+    }
 }
 @media screen and (max-width: 768px) {
     
@@ -104,6 +106,9 @@ button{
     .Navbar{
         width: 968px;
     
+    }
+    .home{
+        width:968px;
     }
     
 }
