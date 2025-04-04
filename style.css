@@ -98,20 +98,16 @@ button{
         width:auto;
     }
 }
-/* @media screen and (max-width: 768px) {
+@media screen and (max-width: 768px) {
     
     header h2{
-        width: 768px;
+        width: 946px;
     }
     .Navbar{
-        width: 768px;
+        width: 946px;
     
     }
-    .home{
-        width: 768px;
-    }
-    
-} */
+}
 /* @media screen and (max-width: 425px) {
     
     header h2{
