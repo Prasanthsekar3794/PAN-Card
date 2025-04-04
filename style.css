@@ -107,3 +107,14 @@ button{
     }
     
 }
+@media screen and (max-width: 425px) {
+    
+    header h2{
+        width:950px;
+    }
+    .Navbar{
+        width: 950px;
+    
+    }
+    
+}
