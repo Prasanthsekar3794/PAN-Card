@@ -101,14 +101,14 @@ button{
 @media screen and (max-width: 768px) {
     
     header h2{
-        width: 946px;
+        width: 768px;
     }
     .Navbar{
-        width: 946px;
+        width: 768px;
     
     }
     .home{
-        width:946px;
+        width: 768px;
     }
     
 }
